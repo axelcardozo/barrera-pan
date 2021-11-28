@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1633837644 source:c:\users\axel\desktop\2∫ a—o utn\informatica ii\barrerapan\main.c
+	"mylib.h"
+
+1633302791 c:\users\axel\desktop\2∫ a—o utn\informatica ii\barrerapan\mylib.h
+	<stdio.h>
+	<stdbool.h>
+
+1633842535 source:c:\users\axel\desktop\barrerapan\main.c
+	"mylib.h"
+
+1633841824 c:\users\axel\desktop\barrerapan\mylib.h
+	<stdio.h>
+	<stdbool.h>
+
+1633982920 source:c:\users\axel\desktop\tp maqest\barrerapan\main.c
+	"mylib.h"
+
+1633841824 c:\users\axel\desktop\tp maqest\barrerapan\mylib.h
+	<stdio.h>
+	<stdbool.h>
+
