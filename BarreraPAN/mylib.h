@@ -14,7 +14,7 @@ typedef struct {
   char configuracion_cerrado[8];  // Palabra que representa al circuito cerrado en el sensor
 }configuracion_circuito_t;
 
-configuracion_circuito_t f_inicio (void);  // Lee el archivo de configuración y carga las variables.
+configuracion_circuito_t f_inicio (estados_t* estado);  // Lee el archivo de configuracion y carga las variables.
 estados_t f_libre (configuracion_circuito_t);
 estados_t f_ocupado (configuracion_circuito_t);
 
